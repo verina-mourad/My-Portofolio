@@ -36,7 +36,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-              Hi! I'm Verina, a Front-End Developer based in Egypt.         
+              I&apos;m Verina, a Front-End Developer based in Egypt.         
           </p>
           <a href="#about">
             <MagicButton
