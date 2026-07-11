@@ -29,7 +29,6 @@ export const TextGenerateEffect = ({
       }
     );
   }, [scope.current]);
-
   const renderWords = () => {
     return (
       <motion.div ref={scope}>
